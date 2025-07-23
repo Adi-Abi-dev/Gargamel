@@ -1,0 +1,27 @@
+﻿  Building 'km' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\mkitz\Downloads\Gargamel-main\Gargamel-main\source\repos\Droiver\build\km_intermediates\km.inf
+  Stamping [Version] section with DriverVer=07/23/2025,12.55.28.977
+  main.cpp
+  km.vcxproj -> C:\Users\mkitz\Downloads\Gargamel-main\Gargamel-main\source\repos\Droiver\build\km.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\mkitz\Downloads\Gargamel-main\Gargamel-main\source\repos\Droiver\build\km.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\mkitz\Downloads\Gargamel-main\Gargamel-main\source\repos\Droiver\build\km\km.cat
+  Set catalog attribute.
+  WdkVersion: 10.0.26100.0
+  Set catalog attribute.
+  WdkAssemblyVersion: 10.0.26100.4202
+  Done Adding Additional Store
+  Successfully signed: C:\Users\mkitz\Downloads\Gargamel-main\Gargamel-main\source\repos\Droiver\build\km\km.cat
+  
